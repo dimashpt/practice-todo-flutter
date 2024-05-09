@@ -1,0 +1,36 @@
+{
+  "general": {
+    "dark": "Gelap",
+    "light": "Terang",
+    "system": "Sistem",
+    "enabled": "Aktif",
+    "disabled": "Nonaktif"
+  },
+  "languages": {
+    "en": "English",
+    "id": "Bahasa Indonesia"
+  },
+  "navbar": {
+    "home": "Beranda",
+    "transactions": "Transaksi",
+    "wallets": "Dompet",
+    "settings": "Pengaturan"
+  },
+  "home_screen": {
+    "title": "Beranda"
+  },
+  "transactions_screen": {
+    "title": "Transaksi"
+  },
+  "wallets_screen": {
+    "title": "Dompet"
+  },
+  "settings_screen": {
+    "title": "Pengaturan",
+    "theme": "Tema",
+    "language": "Bahasa",
+    "application": "Aplikasi",
+    "version": "Versi",
+    "notifications": "Notifikasi"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1001174170456",
+    "project_id": "base-project-app",
+    "storage_bucket": "base-project-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001174170456:android:7cfe575291b9c36841c32d",
+        "android_client_info": {
+          "package_name": "fluttertodo.projects.dimashpt.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001174170456-rv00eooksvvq8v1qosm4lt5pnhisdlpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFO7X62WqNDMVqhJT1hwQKtF32VhKb8Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001174170456-rv00eooksvvq8v1qosm4lt5pnhisdlpn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001174170456-6d1lu9lsfim04is7u72im9d7usppar7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.monee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001174170456:android:6e2feaf9dfab0a0641c32d",
+        "android_client_info": {
+          "package_name": "id.monee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001174170456-6apt3bidnhni1m5t22ikmfrjbtu9rrdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.monee",
+            "certificate_hash": "f300428da6067364e6b363640f93e0d4a5de00dc"
+          }
+        },
+        {
+          "client_id": "1001174170456-rv00eooksvvq8v1qosm4lt5pnhisdlpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFO7X62WqNDMVqhJT1hwQKtF32VhKb8Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001174170456-rv00eooksvvq8v1qosm4lt5pnhisdlpn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001174170456-6d1lu9lsfim04is7u72im9d7usppar7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.monee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

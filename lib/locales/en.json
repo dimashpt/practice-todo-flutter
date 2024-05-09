@@ -1,0 +1,28 @@
+{
+  "general": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "enabled": "Enabled",
+    "disabled": "Disabled"
+  },
+  "languages": {
+    "en": "English",
+    "id": "Bahasa Indonesia"
+  },
+  "navbar": {
+    "home": "Home",
+    "settings": "Settings"
+  },
+  "home_screen": {
+    "title": "Home"
+  },
+  "settings_screen": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "application": "Application",
+    "version": "Version",
+    "notifications": "Notifications"
+  }
+}
