@@ -24,6 +24,7 @@ void main() async {
 
   // Initialize EasyLocalization
   await EasyLocalization.ensureInitialized();
+  EasyLocalization.logger.enableLevels = [];
 
   // Add Google Fonts license
   LicenseRegistry.addLicense(() async* {

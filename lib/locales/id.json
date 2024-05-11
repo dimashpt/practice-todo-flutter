@@ -17,13 +17,9 @@
     "settings": "Pengaturan"
   },
   "home_screen": {
-    "title": "Beranda"
-  },
-  "transactions_screen": {
-    "title": "Transaksi"
-  },
-  "wallets_screen": {
-    "title": "Dompet"
+    "title": "Daftar Tugas",
+    "input_placeholder": "Aku ingin melakukan...",
+    "description": "Geser ke kiri untuk mengedit atau menghapus"
   },
   "settings_screen": {
     "title": "Pengaturan",

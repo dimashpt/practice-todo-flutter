@@ -15,7 +15,9 @@
     "settings": "Settings"
   },
   "home_screen": {
-    "title": "Home"
+    "title": "ToDo List",
+    "input_placeholder": "I want to...",
+    "description": "Swipe to left to edit or delete"
   },
   "settings_screen": {
     "title": "Settings",
